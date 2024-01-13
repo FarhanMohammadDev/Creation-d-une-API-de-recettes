@@ -15,7 +15,7 @@ Bienvenue dans l'API de gestion de recettes pour le 'Livre de Recettes en Ligne'
 - MongoDB pour le stockage efficace et sécurisé des données.
 
 ## Installation
-1. Clonez le repo : `git clone `
+1. Clonez le repo : `git clone https://github.com/FarhanMohammadDev/Creation-d-une-API-de-recettes.git`
 2. Installez les dépendances : `npm install`
 
 ## Configuration
